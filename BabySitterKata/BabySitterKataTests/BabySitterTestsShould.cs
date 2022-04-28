@@ -218,5 +218,11 @@ namespace BabySitterKataTests
             //Assert
             Assert.Contains(expectedPay, actualPay);
         }
+
+        [Fact]
+        public void Test()
+        {
+            Assert.True(true);
+        }
     }
 }
