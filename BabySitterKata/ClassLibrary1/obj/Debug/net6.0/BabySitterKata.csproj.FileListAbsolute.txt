@@ -1,0 +1,11 @@
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\bin\Debug\net6.0\BabySitterKata.deps.json
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\bin\Debug\net6.0\BabySitterKata.dll
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\bin\Debug\net6.0\ref\BabySitterKata.dll
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\bin\Debug\net6.0\BabySitterKata.pdb
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\obj\Debug\net6.0\BabySitterKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\obj\Debug\net6.0\BabySitterKata.AssemblyInfoInputs.cache
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\obj\Debug\net6.0\BabySitterKata.AssemblyInfo.cs
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\obj\Debug\net6.0\BabySitterKata.csproj.CoreCompileInputs.cache
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\obj\Debug\net6.0\BabySitterKata.dll
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\obj\Debug\net6.0\ref\BabySitterKata.dll
+C:\GitHub\WorkshopGithubActions\BabySitterKata\ClassLibrary1\obj\Debug\net6.0\BabySitterKata.pdb
