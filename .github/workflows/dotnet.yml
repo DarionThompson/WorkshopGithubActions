@@ -19,7 +19,7 @@ jobs:
         dotnet-version: 5.0.x
     - name: Restore dependencies
       run: dotnet restore
-      working-directory: BabySitterKata/ClassLibrary1/BabySitterKata.csproj
+      working-directory: /BabySitterKata/ClassLibrary1/
     - name: Build
       run: dotnet build --no-restore
     - name: Test
