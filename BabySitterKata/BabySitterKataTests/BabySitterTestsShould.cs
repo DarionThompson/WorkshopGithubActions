@@ -222,7 +222,7 @@ namespace BabySitterKataTests
         [Fact]
         public void Test()
         {
-            Assert.True(true);
+            Assert.True(false);
         }
     }
 }
