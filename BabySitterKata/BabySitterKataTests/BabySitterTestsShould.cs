@@ -34,6 +34,7 @@ namespace BabySitterKataTests
 
             _familyChoiceC = new FamilyC();
         }
+
         [Fact]
         public void ReturnErrorValidationWhenTimeStartEarlierThand5PM()
         {
@@ -46,6 +47,19 @@ namespace BabySitterKataTests
 
             //Assert
             Assert.Contains(earlyClockInTimeMessage, earnings);
+        }
+
+        [Fact]
+        public void ReturnErrorValidationWhenFamilyNotSelected()
+        {
+            //Arrange
+            var selectAFamilyMessage = "You Must Select A Family";
+
+            //Act
+            var earnings = _babySitter.CalculateNightlyCharge(_clockInTime, _clockOutTime, null).ToList();
+
+            //Assert
+            Assert.Contains(selectAFamilyMessage, earnings);
         }
     }
 }
